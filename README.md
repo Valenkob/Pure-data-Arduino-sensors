@@ -13,4 +13,13 @@ what will deform it to build new sound is the principle of ring modulation. It i
 the sound produced by the trumpet by another signal. Ring modulation has been widely used in science fiction films since the 1950s, mainly 
 to make robotic voices ( but not only).
   
+  
+
+
+//////
+
+
+
+The object created to support the electronics plugs directly onto the trumpet, in fact it was designed to hook under the pistons of the trumpet. This allows the player to better manipulate the potentiometers with his right hand and continue to play a note directly to hear the frequency change live.
+
 
